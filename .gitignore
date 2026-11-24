@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Original lecture materials
+lecture.pdf
+lecture.txt
+
+# Extracted images
+extracted_images/
+
+# Generated metadata
+image_metadata.json
+text_metadata.json
+nearest_texts.json
